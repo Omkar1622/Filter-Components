@@ -1,6 +1,24 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Filter Components App
+> Assignment Submission for MyMegaMinds.
+
+## Requirements  (Prerequisites)
+
+Tools and packages required to successfully install this project.
+
+* NodeJS [Install](https://nodejs.org/en/download/)
+
+## Installation
+
+A step by step list of commands / guide that informs how to install an instance of this project.
+
+* Clone the project
+
+    ```git clone project-url```
+* Install Dependencies
+    ```npm i```
+* Run the Application 
+    ```npm start```
+## Screenshots
 
 Main Page Dark Mode
 <img src="./images/img1.jpg" >
