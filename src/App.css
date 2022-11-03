@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    /* margin-left: 1rem; */
+}
+
